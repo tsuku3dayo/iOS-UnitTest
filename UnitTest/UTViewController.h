@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface UTViewController : UIViewController
-
+@property (weak, nonatomic) IBOutlet UITextField *value1;
+@property (weak, nonatomic) IBOutlet UITextField *value2;
+@property (weak, nonatomic) IBOutlet UILabel *total;
+- (IBAction)calc:(UIButton *)sender;
 @end
