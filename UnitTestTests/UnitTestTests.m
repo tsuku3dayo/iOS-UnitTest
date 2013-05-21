@@ -26,7 +26,15 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in UnitTestTests");
+//    STFail(@"Unit tests are not implemented yet in UnitTestTests");
 }
+
+- (void)testCalc
+{
+    if ( 0 == 1 ) {
+        STFail(@"hoge");
+    }
+}
+
 
 @end

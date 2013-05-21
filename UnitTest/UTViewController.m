@@ -27,5 +27,13 @@
 }
 
 - (IBAction)calc:(UIButton *)sender {
+//    int value1 = [self.value1.text intValue];
+    int x = [self calcWithA:12 B:34];
+    self.total.text = [NSString stringWithFormat:@"%d", x];
 }
+
+- (int)calcWithA:(int)a B:(int)b {
+    return a + b;
+}
+
 @end

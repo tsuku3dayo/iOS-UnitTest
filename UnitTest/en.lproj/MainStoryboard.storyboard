@@ -46,13 +46,13 @@
                         <constraints>
                             <constraint firstItem="F2e-Yd-rCL" firstAttribute="centerX" secondItem="zdE-W3-t6Q" secondAttribute="centerX" type="default" id="7ce-se-yhO"/>
                             <constraint firstItem="zdE-W3-t6Q" firstAttribute="trailing" secondItem="Zmn-hS-9Ip" secondAttribute="trailing" type="default" id="9aj-Nh-cre"/>
-                            <constraint firstAttribute="bottom" secondItem="Gf1-Ky-Rek" secondAttribute="bottom" constant="197" id="GRb-8K-MRO"/>
                             <constraint firstItem="Zmn-hS-9Ip" firstAttribute="top" secondItem="3" secondAttribute="top" constant="118" id="XId-Di-T71"/>
                             <constraint firstItem="F2e-Yd-rCL" firstAttribute="top" secondItem="3" secondAttribute="top" constant="263" id="eaJ-sy-z0Z"/>
                             <constraint firstItem="zdE-W3-t6Q" firstAttribute="top" secondItem="3" secondAttribute="top" constant="193" id="fnP-Ke-pcm"/>
                             <constraint firstItem="Gf1-Ky-Rek" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" type="default" id="ksU-CQ-Vdc"/>
                             <constraint firstItem="zdE-W3-t6Q" firstAttribute="leading" secondItem="Zmn-hS-9Ip" secondAttribute="leading" type="default" id="upE-Uz-lLx"/>
                             <constraint firstItem="Gf1-Ky-Rek" firstAttribute="centerX" secondItem="F2e-Yd-rCL" secondAttribute="centerX" type="default" id="vUm-9w-wVT"/>
+                            <constraint firstAttribute="bottom" secondItem="Gf1-Ky-Rek" secondAttribute="bottom" constant="105" id="zjL-pB-h0X"/>
                         </constraints>
                     </view>
                     <connections>
